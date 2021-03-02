@@ -22,10 +22,10 @@
   },
   "homepage": "https://github.com/keenubee/react-native-onvif#readme",
   "peerDependencies": {
-    "react": "*",
-    "react-native": "*",
-    "react-native-randombytes": "*",
-    "react-native-udp": "*"
+    "react": "16.14.0",
+    "react-native": "^0.63.4",
+    "react-native-randombytes": "^3.0.0",
+    "react-native-udp": "4.1.2"
   },
   "dependencies": {
     "assert": "^1.1.1",
